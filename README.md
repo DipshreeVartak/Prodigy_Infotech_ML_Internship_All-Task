@@ -8,3 +8,6 @@ Dataset:- https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tut
 
 Task 4: Develop a hand gesture recognition model that can accurately identify and classify different hand gestures from image or video data, enabling intuitive human-computer interaction and gesture- based control systems.
 Dataset:- https://www.kaggle.com/gti-upm/leapgestrecog
+
+Task 5: Develop a model that can accurately recognize food items from images and estimate their calorie content, enabling users to track their dietary intake and make informed food choices.
+Dataset:- https://www.kaggle.com/dansbecker/food-101 
